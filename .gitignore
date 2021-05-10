@@ -1,0 +1,7 @@
+.idea/
+composer.lock
+config.php
+docker-compose.yml
+docker/
+emailList.txt
+vendor/
